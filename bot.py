@@ -10,7 +10,8 @@ from telegram.ext import (
 #  CONFIGURATION
 # ═══════════════════════════════════════════════════════════════════
 
-TELEGRAM_TOKEN = "YOUR_TOKEN"
+import os
+TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 OWNER_USERNAME = "@jaat43210"
 OWNER_NAME     = "CLOUDY"
 ALLOWED_USERS  = [8094697912,7973163795]
