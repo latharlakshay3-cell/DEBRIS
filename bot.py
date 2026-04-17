@@ -35,42 +35,7 @@ GITHUB_ACCOUNTS = [
             "ref":  "main",
         }
     },
-    {
-        "username": "BENTEX4",
-        "token": "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",
-        "workflow": {
-            "repo": "CLOUDY",
-            "file": "main.yml",
-            "ref":  "main",
-        }
-    },
-    {
-        "username": "BENTEX5",
-        "token": "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",
-        "workflow": {
-            "repo": "CLOUDY",
-            "file": "main.yml",
-            "ref":  "main",
-        }
-    },
-   {
-        "username": "BENTEX7",
-        "token": "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",
-        "workflow": {
-            "repo": "CLOUDY",
-            "file": "main.yml",
-            "ref":  "main",
-        }
-    },
-   {
-        "username": "rishipandey9350499-ai",
-        "token": "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",
-        "workflow": {
-            "repo": "rep6",
-            "file": "main.yml",
-            "ref":  "main",
-        }
-    },
+   
 ]
 
 
