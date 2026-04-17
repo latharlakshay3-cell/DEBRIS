@@ -11,7 +11,8 @@ from telegram.ext import (
 # ═══════════════════════════════════════════════════════════════════
 
 import os
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
+
+TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
 OWNER_USERNAME = "@jaat43210"
 OWNER_NAME     = "CLOUDY"
 ALLOWED_USERS  = [8094697912,7973163795,8471002692]
