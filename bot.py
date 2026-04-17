@@ -18,19 +18,19 @@ ALLOWED_USERS  = [8094697912,7973163795,8471002692]
 
 GITHUB_ACCOUNTS = [
     {
-        "username": "BENTEX1",
-        "token": "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",
+        "username": "BENTEX15",
+        "token": "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",
         "workflow": {
-            "repo": "CLOUDY",  # repo name only (no username/)
+            "repo": "CLOUDI",  # repo name only (no username/)
             "file": "main.yml",        # .yml filename in .github/workflows/
             "ref":  "main",            # branch name
         }
     },
     {
-        "username": "BENTEX2",
-        "token": "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",
+        "username": "BENTEX16",
+        "token": "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",
         "workflow": {
-            "repo": "CLOUDY",
+            "repo": "CLOUDI",
             "file": "main.yml",
             "ref":  "main",
         }
